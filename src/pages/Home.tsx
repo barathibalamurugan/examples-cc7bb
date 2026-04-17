@@ -103,7 +103,7 @@ export default function Home() {
             </p>
           </div>
 
-          <form onSubmit={handleSubmit} className="space-y-6" name="netlify">
+          <form onSubmit={handleSubmit} className="space-y-6" netlify>
             <div>
               <input
                 type="text"
